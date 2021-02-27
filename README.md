@@ -1,5 +1,5 @@
 # Quiz-App-iOS14
-Quiz app challenge from iOS Bootcamp course of Angela Yu. Started with the skeleton project that instructor provided and all code written and updated to iOS 14. 
+Quiz app challenge from iOS Bootcamp course of Angela Yu. 
 
 What I learned in this project:
 
@@ -12,3 +12,5 @@ What I learned in this project:
 * Compare Swift Classes with Swift Structs and know when to use which.
 * Learn about Object Oriented Programming.
 * How to refactor code and stay organised.
+
+Note: I updated folder names as iOS 14. This project created with the latest version of Xcode and project file updated with xcode to the final version. iOS 13 in title and folders was added by  to the course's instructor and left their to referenced for outdated course material.
